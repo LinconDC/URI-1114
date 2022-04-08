@@ -15,7 +15,7 @@ public class Program {
 		int key = sc.nextInt();
 
 		while (key != 2002) {
-			System.out.println("Acesso negado");
+			System.out.println("Acesso negado!");
 			System.out.print("Insira a senha de acesso: ");
 			key = sc.nextInt();
 		}
